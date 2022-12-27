@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on a rust based uefi operating system  from scratch
 - 📫 How to reach me: don't
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdoMessenberg&layout=compact&theme=dark&lang=4">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdoMessenberg&layout=compact&theme=dark&lang=2">
