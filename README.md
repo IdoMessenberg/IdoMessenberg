@@ -5,5 +5,6 @@
 
 <div style="text-align: left;">
   <img src="(https://github-readme-stats.vercel.app/api?username=idomessenberg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" width="100" alt="lang stat" />
-    <img src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)" width="100" alt="lang stat" />
+    <img src="[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)" width="100" alt="lang stat" />
 </div>
+
