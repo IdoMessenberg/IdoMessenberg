@@ -1,7 +1,8 @@
 # Ido Messenberg
 hey
 
-** programming languages: **
+**programming languages:**
+
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![C#](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
